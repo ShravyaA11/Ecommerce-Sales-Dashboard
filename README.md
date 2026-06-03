@@ -31,6 +31,7 @@ Developed an interactive E-Commerce Business Intelligence Dashboard in Power BI 
 # Workflow
 Data Collection → Data Cleaning → Data Transformation → Data Modeling → DAX Calculations → Dashboard Development → Business Analysis → Insight Generation → Interactive Reporting
 Dataset : https://github.com/ShravyaA11/Ecommerce-Sales-Dashboard/blob/main/ecommerce_data%20(1).csv 
+https://github.com/ShravyaA11/Ecommerce-Sales-Dashboard/blob/main/us_state_long_lat_codes.csv
 
 
 # KPIs Used
